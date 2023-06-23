@@ -9,10 +9,10 @@ Leetcoders solve coding problems to improve their skills. Part of problem-solvin
 
 # How to Install
 1) Download all files to a folder on your computer:<br>
-            content.js<br>
-            favicon.png<br>
-            manifest.json<br>
-            styles.css
+            - content.js<br>
+            - favicon.png<br>
+            - manifest.json<br>
+            - styles.css
 <br>
 3) Navigate to Manage Extensions<BR>
   ![image](https://github.com/projection-error/leetcloak/assets/84434778/f84d16ee-7a13-4ef7-8e7e-59e727f0037e)
