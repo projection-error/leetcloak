@@ -9,12 +9,12 @@ Leetcoders solve coding problems to improve their skills. Part of problem-solvin
 
 # How to Install
 1) Download all files to a folder on your computer.
-2) Navigate to Manage Extensions
+2) Navigate to Manage Extensions<BR>
   ![image](https://github.com/projection-error/leetcloak/assets/84434778/f84d16ee-7a13-4ef7-8e7e-59e727f0037e)
 
-3) Click "Load unpacked"
+3) Click "Load unpacked"<BR>
 ![image](https://github.com/projection-error/leetcloak/assets/84434778/40adb6ea-0426-46b2-8fff-3ae47b5db815)
 
 4) Navigate to and select the folder containing previously installed files.
-5) Confirm extension is active. The Chrome extension should now work!
+5) Confirm extension is active. The Chrome extension should now work!<BR>
 ![image](https://github.com/projection-error/leetcloak/assets/84434778/f03be83b-b16c-4a04-b616-a3db5d73a1c5)
