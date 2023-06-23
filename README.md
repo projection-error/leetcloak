@@ -1,5 +1,5 @@
 # LeetCloak
-![image](https://github.com/projection-error/leetcloak/assets/84434778/b8ee8312-afe2-4bc0-887e-2572a4270927)![image](https://github.com/projection-error/leetcloak/assets/84434778/51be62fc-7db3-4210-8802-d44a4c77138b)
+<img width=225 src=https://github.com/projection-error/leetcloak/assets/84434778/b8ee8312-afe2-4bc0-887e-2572a4270927><img width=575 src=https://github.com/projection-error/leetcloak/assets/84434778/51be62fc-7db3-4210-8802-d44a4c77138b>
 
 # What is it?
 Chrome Extension for Leetcode to hide puzzle rating.
