@@ -4,16 +4,12 @@
   "version": "1.0",
   "manifest_version": 3,
   "icons": {
-    "16": "favicon.png"
+    "16": "favicon-16.png",
+    "128": "favicon-128.png"
   },
 
   "permissions": [
-    "scripting",
-    "activeTab"
-  ],
-  "host_permissions": [
-    "https://leetcode.com/problems/*",
-    "http://leetcode.com/problems/*"
+    "scripting"
   ],
   "content_scripts": [
     {
