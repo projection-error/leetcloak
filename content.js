@@ -13,7 +13,6 @@ function replaceTargetDiv(targetDiv) {
   targetDiv.parentNode.replaceChild(newDiv, targetDiv);
 }
 
-// Delayed execution using setTimeout
 setTimeout(function() {
   dif_class.forEach(classname => {
     const targetDivs = Array.from(document.getElementsByClassName(classname));
@@ -25,4 +24,4 @@ setTimeout(function() {
       console.log('Target divs not found for class:', classname);
     }
   });
-}, 300); // Adjust the delay as needed (in milliseconds)
+}, 300); 
